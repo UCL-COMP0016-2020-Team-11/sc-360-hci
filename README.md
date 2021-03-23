@@ -1,1 +1,2 @@
-# sc-360-hci
+# 
+## HCI part of the course
